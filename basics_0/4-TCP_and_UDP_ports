@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-sudo netstat -tunlp | grep LISTEN
+# filepath: /Users/Dev/Holberton/holbertonschool-network/basics_0/4-TCP_and_UDP_ports
+
+sudo netstat -lp
